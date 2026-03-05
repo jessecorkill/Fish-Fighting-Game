@@ -1,0 +1,1 @@
+This is a passion project of mine to create a mobile game that utilizes online battling of friends. Much of the files are hidden, but I've revealed here some of the useful classes that I've created for the project to show that I'm capable of producing a C# project. The game is yet to be released due to a lot of the visuals and animations being hand made (not my strongsuit!). 
