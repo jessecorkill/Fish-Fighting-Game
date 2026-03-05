@@ -1,0 +1,30 @@
+Assets/AddressableAssetsData/
+Assets/Materials/
+Assets/Prefabs/
+Assets/Scenes/
+Assets/Settings/
+Assets/Sprites/
+Assets/Textures/
+Assets/Audio/
+Assets/Fonts/
+Assets/Plugins/
+Assets/StreamingAssets/
+Assets/Resources/
+Assets/Animation/
+Assets/TextMesh Pro/
+Assets/UI/
+Assets/UI Toolkit/
+Assets/Scenes/
+Library/
+Temp/*
+Obj/*
+Build/*
+Builds/*
+Logs/*
+UserSettings/*
+
+MemoryCaptures/*
+*.csproj
+*.unityproj
+*.sln   
+/Assets/Scripts/Data/*

@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|d:\\unity projects\\fish fight game\\fish fighting game\\assets\\scripts\\scenes\\05_train_stamina\\staminagamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\05_train_stamina\\staminagamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|d:\\unity projects\\fish fight game\\fish fighting game\\assets\\ui\\scripts\\meters\\metercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\scripts\\meters\\metercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\scenes\\01_landing\\tankviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\01_landing\\tankviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\go mobehaviors\\fingerfollower2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\go mobehaviors\\fingerfollower2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\ui\\scripts\\select new fish\\displaychoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\scripts\\select new fish\\displaychoicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\managers\\savemanagerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\savemanagerbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\data\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\savedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\passive events\\algaegrowth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\passive events\\algaegrowth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\managers\\playerinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\playerinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\data\\tankobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\tankobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\data\\atlascache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\atlascache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\data\\bettaobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\data\\bettaobj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\ui\\scripts\\debug menu\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\ui\\scripts\\debug menu\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\assets\\scripts\\scenes\\04_new_fish\\adoptfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF01B34E-D95D-A7E3-BCFA-D1839FF09196}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenes\\04_new_fish\\adoptfish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staminaGameController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Scenes\\05_Train_Stamina\\staminaGameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\05_Train_Stamina\\staminaGameController.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Scenes\\05_Train_Stamina\\staminaGameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\05_Train_Stamina\\staminaGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T03:47:09.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerInit.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Managers\\PlayerInit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\PlayerInit.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Managers\\PlayerInit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\PlayerInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T23:13:51.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FingerFollower2D.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\GO MoBehaviors\\FingerFollower2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GO MoBehaviors\\FingerFollower2D.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\GO MoBehaviors\\FingerFollower2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GO MoBehaviors\\FingerFollower2D.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T22:58:38.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlgaeGrowth.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Passive Events\\AlgaeGrowth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Passive Events\\AlgaeGrowth.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Passive Events\\AlgaeGrowth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Passive Events\\AlgaeGrowth.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T05:24:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeterController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\UI\\Scripts\\Meters\\MeterController.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Scripts\\Meters\\MeterController.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\UI\\Scripts\\Meters\\MeterController.cs",
+              "RelativeToolTip": "Assets\\UI\\Scripts\\Meters\\MeterController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T06:04:50.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TankViewController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Scenes\\01_Landing\\TankViewController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\01_Landing\\TankViewController.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Scenes\\01_Landing\\TankViewController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\01_Landing\\TankViewController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwO8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T03:28:53.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisplayChoicesController.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\UI\\Scripts\\Select New Fish\\DisplayChoicesController.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Scripts\\Select New Fish\\DisplayChoicesController.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\UI\\Scripts\\Select New Fish\\DisplayChoicesController.cs",
+              "RelativeToolTip": "Assets\\UI\\Scripts\\Select New Fish\\DisplayChoicesController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEABAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T00:30:53.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdoptFish.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Scenes\\04_New_FIsh\\AdoptFish.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Scenes\\04_New_FIsh\\AdoptFish.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Scenes\\04_New_FIsh\\AdoptFish.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Scenes\\04_New_FIsh\\AdoptFish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:01:53.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaveManagerBehavior.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Managers\\SaveManagerBehavior.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\SaveManagerBehavior.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Managers\\SaveManagerBehavior.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\SaveManagerBehavior.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wDEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:50:18.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DebugMenu.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\UI\\Scripts\\Debug Menu\\DebugMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\UI\\Scripts\\Debug Menu\\DebugMenu.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\UI\\Scripts\\Debug Menu\\DebugMenu.cs",
+              "RelativeToolTip": "Assets\\UI\\Scripts\\Debug Menu\\DebugMenu.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAApwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T03:27:18.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AtlasCache.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\AtlasCache.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\AtlasCache.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\AtlasCache.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\AtlasCache.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T03:02:18.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SaveData.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\SaveData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\SaveData.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\SaveData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\SaveData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:09:07.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BettaObj.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\BettaObj.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\BettaObj.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\BettaObj.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\BettaObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:10:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TankObj.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\TankObj.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Data\\TankObj.cs",
+              "ToolTip": "D:\\Unity Projects\\Fish Fight Game\\Fish Fighting Game\\Assets\\Scripts\\Data\\TankObj.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Data\\TankObj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T01:50:48.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
